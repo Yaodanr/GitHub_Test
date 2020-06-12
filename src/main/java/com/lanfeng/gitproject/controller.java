@@ -11,5 +11,6 @@ public class controller {
         System.out.println("紧急修复bug");
         System.out.println("开发更新模块一");
         System.out.println("开发更新模块二");
+        System.out.println("修复release的bug");
     }
 }

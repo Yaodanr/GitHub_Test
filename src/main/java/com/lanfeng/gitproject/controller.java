@@ -10,5 +10,6 @@ public class controller {
         System.out.println("主线第二次提交");
         System.out.println("紧急修复bug");
         System.out.println("开发更新模块一");
+        System.out.println("开发更新模块二");
     }
 }
